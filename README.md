@@ -24,6 +24,7 @@
 - [👥 팀원 구성](#-팀원-구성)
 - [👨‍💻 개인 역할](#-개인-역할)
 - [🔧 기술 스택](#-기술-스택)
+- [🛠 아키텍처 다이어그램](#-아키텍처-다이어그램)
 - [🖥️ 페이지 별 기능](#️-페이지-별-기능)
 - [🎆 개선 목표](#-개선-목표)
 - [🎉 프로젝트 후기](#-프로젝트-후기)
@@ -226,6 +227,14 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<br>
+<br>
+<br>
+
+## 🛠 아키텍처 다이어그램
+
+![샐로그 아키텍처 다이어그램]()
 
 <br>
 <br>
