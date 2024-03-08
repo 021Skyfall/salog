@@ -6,6 +6,8 @@
 
   ![Component 70](https://github.com/kimtjrgus/salog/assets/120611048/52114883-7a5f-43b0-8a3a-a26072be37a3)
 
+<div align="center">
+
   ### 프로젝트 기간 : 2023.11.17 ~ ing
 
   ### 배포 링크 : <a href="http://www.salog.kro.kr" target="_blank">Salog</a>
@@ -13,6 +15,8 @@
   ### 테스트용 계정
     - id : salogtest123@gmail.com
     - pw : salogtest123!@#
+
+</div>
 
 <br>
 <br>
@@ -66,10 +70,15 @@
 <br>
     
 ## 👥 팀원 구성
+
+<div align="center">
+
   |<img src="https://github.com/codestates-seb/seb43_main_004/assets/120611048/fd4b071f-c773-4a17-b27f-ec9656290fa5" width="130px" />|<img src="https://github.com/codestates-seb/seb43_main_004/assets/120611048/1c7f47bc-6dba-4d67-b189-5ac3148256fd" width="130px" />|<img src="https://github.com/codestates-seb/seb43_main_004/assets/120611048/c194e140-fb6b-4bec-8b60-5b8398258e86" width="130px" />
 |:---:|:---:|:---:|
 |[이용석](https://github.com/021Skyfall)|[김석현](https://github.com/kimtjrgus)|[선유준](https://github.com/YujunSun0)
 |BE (팀장)|BE|FE|
+
+</div>
 
 <br>
 <br>
