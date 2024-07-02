@@ -31,11 +31,11 @@
 ## ✔ 목차
 - [📄 기획서](#-기획서)
 - [💡 브랜치 전략](#-브랜치-전략)
+- [🔧 기술 스택](#-기술-스택)
+- [🛠 아키텍처 다이어그램](#-아키텍처-다이어그램)
 - [👥 팀원 구성](#-팀원-구성)
 - [👨‍💻 개인 역할](#-개인-역할)
 - [💻 모니터링](#-모니터링)
-- [🔧 기술 스택](#-기술-스택)
-- [🛠 아키텍처 다이어그램](#-아키텍처-다이어그램)
 - [🖥️ 페이지 별 기능](#️-페이지-별-기능)
 - [🎆 개선 목표](#-개선-목표)
 - [🎉 프로젝트 후기](#-프로젝트-후기)
@@ -71,6 +71,49 @@
   - main 브랜치는 배포 단계에서만 사용하는 브랜치입니다.
   - develop 브랜치는 개발 단계에서 git-flow의 master 역할을 하는 브랜치입니다.
   - Feat 브랜치는 기능 단위로 독립적인 개발 환경을 위하여 사용하고 merge 후 각 브랜치를 삭제해주었습니다.
+
+<br>
+<br>
+<br>
+
+## 🔧 기술 스택
+
+### Common
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### Front-end
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+<img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
+
+
+   
+### Back-end
+<img src="https://img.shields.io/badge/java-1E8CBE?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+<img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/mySQL-4479A1?style=for-the-badge&logo=mySQL&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-d63aff?style=for-the-badge&logo=JWT&logoColor=white">
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<br>
+<br>
+<br>
+
+## 🛠 아키텍처 다이어그램
+
+![샐로그 아키텍처 다이어그램](https://github.com/kimtjrgus/Salog/assets/120611048/300386c0-c927-48b5-b327-a55a60825886)
 
 <br>
 <br>
@@ -254,50 +297,6 @@
   - 생성된 패널은 아래와 같습니다.
 
 ![](https://private-user-images.githubusercontent.com/119563406/344874225-3cf05487-3dfc-420d-8e08-cb42b048b8d1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4OTQxMTMsIm5iZiI6MTcxOTg5MzgxMywicGF0aCI6Ii8xMTk1NjM0MDYvMzQ0ODc0MjI1LTNjZjA1NDg3LTNkZmMtNDIwZC04ZTA4LWNiNDJiMDQ4YjhkMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwNDE2NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZmRmYzI1M2RiYjZkMWU3NWVmN2I4MjUxMzQ4MDZhNWM1NGI3OWRhMmIzNmJkMDA1MDI0ZTk3ODgzNDlkMzA5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZL1RXN64NpLafKVcFZwkPI1lWAi94RVy1DdlphqsXbY)
-
-
-<br>
-<br>
-<br>
-
-## 🔧 기술 스택
-
-### Common
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Front-end
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
-
-
-   
-### Back-end
-<img src="https://img.shields.io/badge/java-1E8CBE?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-<img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/mySQL-4479A1?style=for-the-badge&logo=mySQL&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-d63aff?style=for-the-badge&logo=JWT&logoColor=white">
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<br>
-<br>
-<br>
-
-## 🛠 아키텍처 다이어그램
-
-![샐로그 아키텍처 다이어그램](https://github.com/kimtjrgus/Salog/assets/120611048/300386c0-c927-48b5-b327-a55a60825886)
 
 <br>
 <br>
@@ -518,7 +517,7 @@
 
 ## 🎆 개선 목표
 
-### 1. 테스트 케이스
+### 1. 테스트 케이스 - 완료
 - 단위 테스트로 진행
 - 테스트 케이스 작성 완료 후 API 문서화
 
@@ -531,13 +530,13 @@
 
 <br>
 
-### 3. 보안
+### 3. 보안 - 완료
 - 이메일이 연락 가능한지 체크가 안된 상태로 가입 시도 시 에러 처리
 - 리프레쉬 토큰을 활용한 jwt 재발급 삭제 후 토큰 만료시간 짧게 설정 및 토큰 자동 갱신 방식 사용
 
 <br>
 
-### 4. 성능 최적화
+### 4. 성능 최적화 - 테스트, 모니터링 완료
 - JMeter 부하 테스트 시도 후 최적화
 - 그라파나 모니터링 시도 후 최적화
 
