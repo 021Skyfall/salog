@@ -16,11 +16,11 @@
     - id : salogtest123@gmail.com
     - pw : salogtest123!@#
 
-  ### 주의사항
-    - 주요 변경 내역은 dev/be 브랜치에 있습니다.
-    - main 브랜치는 배포용 브랜치로 사용 중이기 때문에 Sync fork 하지 않습니다.
+  </div>
 
-</div>
+### 주의사항
+  - 주요 변경 내역은 dev/be 브랜치에 있습니다.
+  - main 브랜치는 배포용 브랜치로 사용 중이기 때문에 Sync fork 하지 않습니다.
 
 <br>
 <br>
